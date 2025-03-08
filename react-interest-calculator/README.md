@@ -1,8 +1,40 @@
-# React + Vite
+# Task Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+A brief description of what the coding task does and why learning this aspect of coding is important.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+Step-by-step instructions on how to install the project locally. Include any dependencies that need to be installed.
+
+```bash
+# Example:
+# Clone the repository
+git clone https://github.com/yourusername/codingTasks.git
+
+# Navigate to the project directory
+cd codingTasks/TaskName
+
+# Install dependencies
+npm install
+```
+
+## Usage
+Instructions on how to use the code after installation. Include screenshots or examples of the program in action.
+
+```bash
+# Example:
+# Run the project
+npm start
+
+# Or, if applicable, run specific scripts
+npm run script-name
+```
+
+## Credits
+
+* Russell Fulwood
