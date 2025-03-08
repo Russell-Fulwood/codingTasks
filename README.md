@@ -1,6 +1,6 @@
 # Repository Overview
 
-This repository contains multiple projects. Below are brief descriptions and links to the detailed documentation for each project.
+This repository contains two projects. Below are brief descriptions and links to the detailed documentation for each project.
 
 ## Projects
 
