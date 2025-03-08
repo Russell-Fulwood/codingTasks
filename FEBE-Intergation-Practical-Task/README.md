@@ -39,7 +39,7 @@ npm start
 # next run the frontend from the frontend directory
 npm run dev
 
-access the the returned link in a web browser
+access the the returned link from a web browser
 
 
 ```
