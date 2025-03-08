@@ -39,11 +39,11 @@ npm start
 # next run the frontend from the frontend directory
 npm run dev
 
-access the the returned url in a web browser
+access the the returned link in a web browser
 
-![Screenshot of Project A](../Screenshot Practical Task.png)
+
 ```
-
+![Screenshot from a Web Browser](../Screenshot%20Practical%20Task.png)
 ## Credits
 
 * Russell Fulwood
