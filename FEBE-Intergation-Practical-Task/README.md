@@ -9,7 +9,6 @@ The task outlines how to intergate a backend API using express with a frontend c
 - [Credits](#credits)
 
 ## Installation
-Step-by-step instructions on how to install the project locally. Include any dependencies that need to be installed.
 
 ```bash
 # Clone the repository
@@ -32,14 +31,13 @@ npm install
 ```
 
 ## Usage
-Instructions on how to use the code after installation. Include screenshots or examples of the program in action.
 
 ```bash
-# Run the project
+# Run the backend 
 npm start
 
-# Or, if applicable, run specific scripts
-npm run script-name
+# next run the frontend
+npm run dev
 ```
 
 ## Credits
