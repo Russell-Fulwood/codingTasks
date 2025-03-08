@@ -13,7 +13,7 @@ Create a React application that simulates a banking system using Local State Man
 ```bash
 # Clone the repository
 
-git clone https://github.com/yourusername/codingTasks.git
+git clone https://github.com/Russell-Fulwood/codingTasks.git
 
 # Navigate to the project directory
 
