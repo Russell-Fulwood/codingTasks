@@ -1,40 +1,14 @@
-# Task Name
+# Repository Overview
 
-## Description
-A brief description of what the coding task does and why learning this aspect of coding is important.
+This repository contains multiple projects. Below are brief descriptions and links to the detailed documentation for each project.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
+## Projects
 
-## Installation
-Step-by-step instructions on how to install the project locally. Include any dependencies that need to be installed.
+### [FEBE-Intergation-Practical-Task](FEBE-Intergation-Practical-Task/README.md)
+A brief description of FEBE-Intergation-Practical-Task. [Read more](FEBE-Intergation-Practical-Task/README.md).
 
-```bash
-# Example:
-# Clone the repository
-git clone https://github.com/yourusername/codingTasks.git
+### [react-interest-calculator](react-interest-calculator/README.md)
+A brief description of react-interest-calculator. [Read more](react-interest-calculator/README.md).
 
-# Navigate to the project directory
-cd codingTasks/TaskName
 
-# Install dependencies
-npm install
-```
 
-## Usage
-Instructions on how to use the code after installation. Include screenshots or examples of the program in action.
-
-```bash
-# Example:
-# Run the project
-npm start
-
-# Or, if applicable, run specific scripts
-npm run script-name
-```
-
-## Credits
-
-* Russell Fulwood
