@@ -1,7 +1,7 @@
-# Task Name
+# react-interest-calculator
 
 ## Description
-A brief description of what the coding task does and why learning this aspect of coding is important.
+Create a React application that simulates a banking system using Local State Management and Events.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -17,7 +17,7 @@ Step-by-step instructions on how to install the project locally. Include any dep
 git clone https://github.com/yourusername/codingTasks.git
 
 # Navigate to the project directory
-cd codingTasks/TaskName
+cd codingTasks/react-interest-calculator
 
 # Install dependencies
 npm install
