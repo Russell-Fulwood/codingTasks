@@ -33,11 +33,15 @@ npm install
 ## Usage
 
 ```bash
-# Run the backend 
+# Run the backend from the backend directory
 npm start
 
-# next run the frontend
+# next run the frontend from the frontend directory
 npm run dev
+
+access the the returned url in a web browser
+
+![Screenshot of Project A](../Screenshot Practical Task.png)
 ```
 
 ## Credits
