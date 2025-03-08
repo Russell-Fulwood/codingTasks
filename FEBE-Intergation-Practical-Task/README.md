@@ -1,7 +1,7 @@
 # Task Name
 
 ## Description
-A brief description of what the coding task does and why learning this aspect of coding is important.
+The task outlines how to intergate a backend API using express with a frontend client side using vite/react
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,12 +12,20 @@ A brief description of what the coding task does and why learning this aspect of
 Step-by-step instructions on how to install the project locally. Include any dependencies that need to be installed.
 
 ```bash
-# Example:
 # Clone the repository
-git clone https://github.com/yourusername/codingTasks.git
+git clone https://github.com/Russell-Fulwood/codingTasks.git
 
 # Navigate to the project directory
-cd codingTasks/TaskName
+cd codingTasks/FEBE-Intergation-Practical-Task
+
+# backend
+cd backend
+
+# Install dependencies
+npm install
+
+# frontend
+cd ../frontend
 
 # Install dependencies
 npm install
@@ -27,7 +35,6 @@ npm install
 Instructions on how to use the code after installation. Include screenshots or examples of the program in action.
 
 ```bash
-# Example:
 # Run the project
 npm start
 
