@@ -19,11 +19,10 @@
   triggers when the user goes into a negative balance, for example.
 */
 
-import { useState } from 'react'
 import './App.css'
+import Balance from './components/Balance'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
